@@ -1,0 +1,197 @@
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3)
+}
+
+.pt-10 {
+  padding-top: 10px
+}
+
+.pt-20 {
+  padding-top: 20px
+}
+
+.pl-10 {
+  padding-left: 10px;
+}
+
+.pl-20 {
+  padding-left: 20px;
+}
+
+
+.text-end {
+  text-align: end
+}
+
+.site-layout .site-layout-background {
+  background: #fff
+}
+
+.dashboard-content-container {
+  padding: 16px
+}
+
+.dashboard-components-header-icons {
+  .anticon {
+    font-size: larger;
+    color: black;
+  }
+}
+
+.dashboard-parent {
+  .ant-card {
+    border-radius: 20px;
+  }
+
+  .card-value-display {
+    margin-bottom: 0;
+  }
+
+  .get-icon-container {
+    height: 56px;
+    width: 42px;
+    border-radius: 10px;
+    background-image: linear-gradient(#7ba4e7, #276bd7);
+    color: white
+  }
+
+  .get-icon-container {
+    span {
+      font-size: 25px;
+      position: absolute;
+      top: 15px;
+      left: 9px;
+    }
+
+
+  }
+
+  .percentage-container {
+    text-align: right;
+
+    .loss {
+      color: #ff6a6c;
+      padding: 3px 6px;
+      background: #ffeeee;
+      border-radius: 9px;
+    }
+
+    .profit {
+      color: #61ae7b;
+      padding: 3px 6px;
+      background: #ebf6ee;
+      border-radius: 9px;
+    }
+
+  }
+}
+
+.user-card-cover-image {
+  border-radius: 20px 20px 0 0 !important;
+  height: 186px
+}
+
+.avatar-image {
+  position: absolute;
+  font-size: 18px;
+  // top: 130px;
+  box-shadow: 0px 0px 3px 7px white;
+  // left: 35%;
+}
+
+.three-dots {
+  position: absolute;
+  color: white;
+  top: -13px;
+  right: 20px;
+  font-size: xx-large;
+}
+
+.earning-chart-container {
+  height: 150px;
+}
+
+.recent-activity-date-part {
+  background: #e1e4e9;
+  border-radius: 15px;
+  text-align: center;
+  padding: 5px;
+}
+
+.border-right-grey {
+  border-right: 1px solid lightgrey;
+}
+
+.products-count-sold {
+  padding: 1px 8px
+}
+
+.products-list {
+  max-height: 251px;
+  overflow: auto;
+
+  .top-product-info {
+    padding: 0 5px;
+  }
+
+  .top-product-rank {
+    background-image: linear-gradient(#7ba4e7, #276bd7);
+    border-radius: 15px;
+    text-align: center;
+    width: 19px !important;
+
+    .rank-text {
+      position: absolute;
+      top: 10px;
+      left: 12px;
+      color: white;
+    }
+  }
+}
+
+.overview-info-elements {
+  text-align: center;
+
+  .ant-divider-horizontal {
+    margin: 0
+  }
+}
+
+.order-status-divider {
+  margin: 0;
+}
+
+.top5 {
+  position: relative;
+  top: 5px;
+}
+
+.avatar-image-container {
+  text-align: center;
+  width: 100%;
+  left: -40px;
+  top: 125px;
+  position: absolute;
+}
+
+.level-1-cards-container {
+  padding: 10px
+}
+
+.p-10 {
+  padding: 10px
+}
+
+.color-1890ff {
+  color: black !important
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+.display-none {
+  display: none
+}
